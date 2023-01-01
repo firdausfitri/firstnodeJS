@@ -1,0 +1,20 @@
+{
+  "name": "sesi7-cuyuniversity",
+  "version": "1.0.0",
+  "description": "cuyuniversity sesi 7 backend",
+  "main": "index.js",
+  "scripts": {
+    "nyala": "nodemon index.js"
+  },
+  "keywords": [
+    "a"
+  ],
+  "author": "firdaus",
+  "license": "ISC",
+  "dependencies": {
+    "currency-formatter": "^1.5.9",
+    "nodemon": "^2.0.20",
+    "rm2text": "^1.0.0",
+    "rupiah-format": "^1.0.0"
+  }
+}
